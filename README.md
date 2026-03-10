@@ -140,7 +140,7 @@ eeg-alzheimer-complexity/
 
 If you use this work, please cite:
 
-**Youssof Sallam.** EEG Complexity in Neurodegeneration (2025). GitHub.
+**Youssof Sallam.** EEG Complexity in Neurodegeneration (2026). GitHub.
 
 https://github.com/youssof20/eeg-alzheimer-complexity
 

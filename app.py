@@ -7,6 +7,7 @@ from pathlib import Path
 
 import streamlit as st
 import numpy as np
+import pandas as pd
 
 from src.data_loader import load_processed_folder, load_raw_and_preprocess
 from src.features import build_features_table, extract_subject_features

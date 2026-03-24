@@ -7,7 +7,7 @@
 
 > **Does brain signal complexity drop as Alzheimer's progresses?**
 >
-> We measure it with Sample Entropy, Higuchi fractal dimension, and DFA on real resting-state EEG — and the gradient from Healthy → FTD → Alzheimer's is visible in the data.
+> I measured it with Sample Entropy, Higuchi fractal dimension, DFA on real resting-state EEG, and the gradient from Healthy → FTD → Alzheimer's is visible in the data.
 
 ---
 
@@ -32,8 +32,6 @@ Healthy brain activity is highly variable and irregular; neurons fire in diverse
 ### Complexity gradient
 
 Violin and strip plots of SampEn, HFD, and DFA across the three groups (Healthy, FTD, Alzheimer's). The downward trend from healthy to Alzheimer's is the main result — visible in the **Complexity Analysis** page of the app.
-
-*(Add a screenshot of the complexity gradient figure from the app here.)*
 
 ### Summary table
 
